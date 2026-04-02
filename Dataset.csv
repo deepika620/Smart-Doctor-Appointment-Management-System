@@ -1,0 +1,61 @@
+symptom,specialist,doctor,location,appointment_id
+fever,General Physician,Dr. Ravi Kumar,Hyderabad,APT1001
+cough,Pulmonologist,Dr. Suresh Reddy,Bangalore,APT1002
+headache,Neurologist,Dr. Vivek Gupta,Hyderabad,APT1003
+skin rash,Dermatologist,Dr. Priya Singh,Chennai,APT1004
+tooth pain,Dentist,Dr. Kiran Patel,Hyderabad,APT1005
+eye pain,Ophthalmologist,Dr. Meena Iyer,Bangalore,APT1006
+stomach pain,Gastroenterologist,Dr. Arjun Rao,Chennai,APT1007
+joint pain,Orthopedic,Dr. Ramesh Naidu,Bangalore,APT1008
+fever,Pediatrician,Dr. Sneha Verma,Chennai,APT1009
+cough,ENT Specialist,Dr. Anjali Sharma,Hyderabad,APT1010
+fever,General Physician,Dr. Rajesh Singh,Delhi,APT1011
+cough,Pulmonologist,Dr. Mohan Rao,Mumbai,APT1012
+headache,Neurologist,Dr. Amit Shah,Pune,APT1013
+skin rash,Dermatologist,Dr. Kavita Jain,Delhi,APT1014
+tooth pain,Dentist,Dr. Neha Kapoor,Mumbai,APT1015
+eye pain,Ophthalmologist,Dr. Ritu Sharma,Pune,APT1016
+stomach pain,Gastroenterologist,Dr. Sanjay Verma,Delhi,APT1017
+joint pain,Orthopedic,Dr. Vikram Singh,Mumbai,APT1018
+fever,Pediatrician,Dr. Pooja Mehta,Pune,APT1019
+cough,ENT Specialist,Dr. Deepak Gupta,Delhi,APT1020
+fever,General Physician,Dr. Arvind Kumar,Chennai,APT1021
+cough,Pulmonologist,Dr. Harish Patel,Ahmedabad,APT1022
+headache,Neurologist,Dr. Sunil Reddy,Hyderabad,APT1023
+skin rash,Dermatologist,Dr. Nisha Singh,Bangalore,APT1024
+tooth pain,Dentist,Dr. Rahul Verma,Chennai,APT1025
+eye pain,Ophthalmologist,Dr. Shalini Iyer,Hyderabad,APT1026
+stomach pain,Gastroenterologist,Dr. Ajay Kumar,Bangalore,APT1027
+joint pain,Orthopedic,Dr. Manoj Gupta,Chennai,APT1028
+fever,Pediatrician,Dr. Rina Shah,Ahmedabad,APT1029
+cough,ENT Specialist,Dr. Karthik Rao,Hyderabad,APT1030
+fever,General Physician,Dr. Sandeep Yadav,Jaipur,APT1031
+cough,Pulmonologist,Dr. Rakesh Sharma,Chandigarh,APT1032
+headache,Neurologist,Dr. Vivek Jain,Jaipur,APT1033
+skin rash,Dermatologist,Dr. Aarti Gupta,Chandigarh,APT1034
+tooth pain,Dentist,Dr. Mehul Patel,Ahmedabad,APT1035
+eye pain,Ophthalmologist,Dr. Kiran Nair,Kochi,APT1036
+stomach pain,Gastroenterologist,Dr. Thomas Mathew,Kochi,APT1037
+joint pain,Orthopedic,Dr. Joseph Varghese,Kochi,APT1038
+fever,Pediatrician,Dr. Anu Nair,Kochi,APT1039
+cough,ENT Specialist,Dr. Rahul Nair,Kochi,APT1040
+fever,General Physician,Dr. Imran Khan,Hyderabad,APT1041
+cough,Pulmonologist,Dr. Salman Ali,Delhi,APT1042
+headache,Neurologist,Dr. Farhan Ahmed,Mumbai,APT1043
+skin rash,Dermatologist,Dr. Zoya Khan,Pune,APT1044
+tooth pain,Dentist,Dr. Arif Sheikh,Hyderabad,APT1045
+eye pain,Ophthalmologist,Dr. Sameera Khan,Bangalore,APT1046
+stomach pain,Gastroenterologist,Dr. Rehan Ali,Chennai,APT1047
+joint pain,Orthopedic,Dr. Faisal Khan,Delhi,APT1048
+fever,Pediatrician,Dr. Sana Sheikh,Mumbai,APT1049
+cough,ENT Specialist,Dr. Yasmin Khan,Pune,APT1050
+fever,General Physician,Dr. Naveen Reddy,Hyderabad,APT1051
+cough,Pulmonologist,Dr. Prakash Rao,Bangalore,APT1052
+headache,Neurologist,Dr. Lakshmi Devi,Chennai,APT1053
+skin rash,Dermatologist,Dr. Rekha Reddy,Hyderabad,APT1054
+tooth pain,Dentist,Dr. Suresh Babu,Bangalore,APT1055
+eye pain,Ophthalmologist,Dr. Geetha Iyer,Chennai,APT1056
+stomach pain,Gastroenterologist,Dr. Raghavendra Rao,Hyderabad,APT1057
+joint pain,Orthopedic,Dr. Srinivas Reddy,Bangalore,APT1058
+fever,Pediatrician,Dr. Padma Rao,Chennai,APT1059
+cough,ENT Specialist,Dr. Venkatesh Rao,Hyderabad,APT1060
